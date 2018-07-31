@@ -4,7 +4,7 @@ Salut moussaillon tu vas bien?
 Ici il y a un site i-love-forms.
 
 check it here:
-https://mon-nouveau-site-internet-clydeat.herokuapp.com/
+https://mon-site-internet-clydeat.herokuapp.com/
 
 Télécharge ou clone le repo.
 Place toi dans le dossier correspondant et lance un bundle install.
